@@ -1,6 +1,8 @@
 {
-  "folders": [
-    { "path": "NodoMascota" },
-    { "path": "NodoUsuario" }
+"folders": [
+    { "name": "NodoMascota",
+	"path": "./NodoMascota" },
+    { "name": "NodoUsuario",
+	"path": "./NodoUsuario" }
   ]
 }

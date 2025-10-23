@@ -1,13 +1,6 @@
 {
 	"folders": [
-		{
-			"name": "NodoUsuario",
-			"path": "../NodoUsuario"
-		},
-		{
-			"name": "NodoUsuario",
-			"path": "."
-		}
-	],
-	"settings": {}
+    { "name": "NodoMascota", "path": "NodoMascota" },
+    { "name": "NodoUsuario", "path": "NodoUsuario" }
+  ]
 }

@@ -1,0 +1,4 @@
+<map id="GPS_update" name="GPS_update">
+<area shape="rect" id="node1" title="Alimenta el parser NMEA con los bytes disponibles." alt="" coords="104,5,204,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="5,5,56,32"/>
+</map>

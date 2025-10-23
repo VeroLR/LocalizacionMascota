@@ -1,0 +1,4 @@
+<map id="GPS_parsePayload" name="GPS_parsePayload">
+<area shape="rect" id="node1" title="Decodifica 13 B a GpsInfo; exige fix_flag==1." alt="" coords="104,5,247,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="5,5,56,32"/>
+</map>

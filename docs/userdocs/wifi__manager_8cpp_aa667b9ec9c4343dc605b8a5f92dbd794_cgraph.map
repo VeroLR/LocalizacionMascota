@@ -1,0 +1,4 @@
+<map id="startWiFiAP" name="startWiFiAP">
+<area shape="rect" id="node1" title="Levanta AP con SSID/clave fijos (prototipo)." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$lcd__utils_8cpp.html#a28d0b9d595f60ae4ca04a6a9d7e11ef5" title="Muestra un mensaje en la pantalla LCD (máx. 2 líneas)." alt="" coords="151,5,291,32"/>
+</map>

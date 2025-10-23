@@ -1,0 +1,8 @@
+<map id="setup" name="setup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,64,83"/>
+<area shape="rect" id="node2" href="$gps__handler_8cpp.html#a5f19e424ee67f76fb7be41041854f024" title="Inicializa SoftwareSerial hacia el receptor GNSS." alt="" coords="128,5,219,32"/>
+<area shape="rect" id="node4" href="$lora__handler_8cpp.html#a0269a771b42dac59079cf8c7a605e5e2" title="Inicializa bus SPI0, pines de la radio y configuración LoRa." alt="" coords="123,56,223,83"/>
+<area shape="rect" id="node6" href="$lora__handler_8cpp.html#a7bcdccd402c2be62620e9f11563aaab4" title="Último estado devuelto por RadioLib (RADIOLIB_ERR_xxx)." alt="" coords="112,107,235,133"/>
+<area shape="rect" id="node3" href="$gps__handler_8cpp.html#ad0b9cfa4d46dc061703aa2a40d4ef921" title=" " alt="" coords="307,5,389,32"/>
+<area shape="rect" id="node5" href="$lora__handler_8cpp.html#a3784109952cbb7dcbde5e7600056356f" title="Callback de RadioLib cuando termina la transmisión." alt="" coords="283,56,413,83"/>
+</map>

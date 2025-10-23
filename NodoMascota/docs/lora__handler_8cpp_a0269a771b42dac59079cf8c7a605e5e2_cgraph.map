@@ -1,0 +1,4 @@
+<map id="LORA_begin" name="LORA_begin">
+<area shape="rect" id="node1" title="Inicializa bus SPI0, pines de la radio y configuración LoRa." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="node2" href="$lora__handler_8cpp.html#a3784109952cbb7dcbde5e7600056356f" title="Callback de RadioLib cuando termina la transmisión." alt="" coords="153,5,284,32"/>
+</map>

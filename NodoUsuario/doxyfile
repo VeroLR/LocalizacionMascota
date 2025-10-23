@@ -1,0 +1,57 @@
+# ========== Proyecto ==========
+PROJECT_NAME           = "TFG - Nodo de usuario"
+PROJECT_NUMBER         = "v1.0"
+PROJECT_BRIEF          = "Firmware para localización de mascotas basado en LoRa"
+OUTPUT_DIRECTORY       = docs
+CREATE_SUBDIRS         = NO
+
+# ========== Entradas ==========
+INPUT                  = src include docs_mainpage.md
+RECURSIVE              = YES
+FILE_PATTERNS          = *.h *.hpp *.c *.cpp *.ino
+EXTENSION_MAPPING      = ino=C++
+
+# ========== Extracción ==========
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+HIDE_UNDOC_MEMBERS     = NO
+HIDE_UNDOC_CLASSES     = NO
+INLINE_SOURCES         = YES
+SOURCE_BROWSER         = YES
+
+# ========== HTML ==========
+GENERATE_HTML          = YES
+HTML_OUTPUT            = .
+GENERATE_TREEVIEW      = YES
+HTML_DYNAMIC_SECTIONS  = YES
+USE_MDFILE_AS_MAINPAGE = docs_mainpage.md
+GENERATE_LATEX         = NO
+GENERATE_XML           = NO
+
+# ========== Estilo ==========
+HTML_COLORSTYLE        = LIGHT
+
+# ========== Gráficos (Graphviz) ==========
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+CLASS_GRAPH            = YES
+DOT_IMAGE_FORMAT       = svg
+DOT_MULTI_TARGETS      = YES
+
+# ========== Warnings ==========
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = NO
+WARN_IF_DOC_ERROR      = YES
+WARN_NO_PARAMDOC       = YES
+
+# ========== Preprocesador ==========
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = YES
+EXPAND_ONLY_PREDEF     = NO
+PREDEFINED             = __RP2040__ RADIOLIB_VERSION
+
+# ========== Agrupación por módulos ==========
+# Ver §4 para usar \defgroup en headers

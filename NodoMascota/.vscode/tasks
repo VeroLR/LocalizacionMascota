@@ -1,0 +1,11 @@
+{
+  "version": "1.9.1",
+  "tasks": [
+    {
+      "label": "Doxygen: Generate HTML",
+      "type": "shell",
+      "command": "doxygen Doxyfile",
+      "options": { "cwd": "${workspaceFolder}" }
+    }
+  ]
+}

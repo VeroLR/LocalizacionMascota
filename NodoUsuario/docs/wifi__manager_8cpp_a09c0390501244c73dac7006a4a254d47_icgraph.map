@@ -1,0 +1,5 @@
+<map id="saveWiFiConf" name="saveWiFiConf">
+<area shape="rect" id="node1" title="Guarda SSID y password (dos líneas) en CONFIG_FILE." alt="" coords="305,5,416,32"/>
+<area shape="rect" id="node2" href="$wifi__manager_8cpp.html#a7366b308d83e321ec68741802ec46934" title="POST /submit: guarda credenciales, redirige y programa reinicio." alt="" coords="112,5,257,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,5,64,32"/>
+</map>

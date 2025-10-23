@@ -1,0 +1,7 @@
+<map id="include/gps_handler.h" name="include/gps_handler.h">
+<area shape="rect" id="node1" title="Declaraciones del módulo GPS (TinyGPS++) para lectura y codificación de coordenadas." alt="" coords="113,5,275,32"/>
+<area shape="rect" id="node2" href="$gps__handler_8cpp.html" title="Implementación del periférico GNSS (TinyGPS++) para el nodo de la mascota." alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title=" " alt="" coords="141,155,247,181"/>
+<area shape="rect" id="node4" href="$lora__handler_8h.html" title="Definición de las funciones SX1262 (RadioLib) para recepción de payload GNSS por LoRa." alt="" coords="231,80,397,107"/>
+<area shape="rect" id="node5" href="$lora__handler_8cpp.html" title="Implementación de las funciones SX1262 (RadioLib) para recepción de payload GNSS por LoRa." alt="" coords="271,155,423,181"/>
+</map>

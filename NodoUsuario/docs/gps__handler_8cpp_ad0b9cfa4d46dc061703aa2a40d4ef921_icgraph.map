@@ -1,0 +1,5 @@
+<map id="gpsSerial" name="gpsSerial">
+<area shape="rect" id="node1" title=" " alt="" coords="153,31,236,57"/>
+<area shape="rect" id="node2" href="$gps__handler_8cpp.html#a5f19e424ee67f76fb7be41041854f024" title="Inicializa SoftwareSerial hacia el receptor GNSS." alt="" coords="10,5,101,32"/>
+<area shape="rect" id="node3" href="$gps__handler_8cpp.html#a7c9d547d0c359f65fae840093b0b01ef" title="Lee los mensajes recibidos y los pasa al parser NMEA." alt="" coords="5,56,105,83"/>
+</map>

@@ -1,0 +1,28 @@
+# Sistema de Localización de Mascotas con LoRa y WiFi
+
+Este proyecto implementa una aplicación basada en el core RP2040 incorporado en 
+la Raspberry Pi Pico, la cual permite localizar a una mascota a través de la utilización de
+GPS y la tecnología de radio LoRa.
+
+El usuario podrá interactuar con la aplicación fácilmente a través de una aplicación web que 
+le permitirá:
+- Configurar la red WiFi.
+- Ver la última posición GPS, recibida vía LoRa, en un mapa.
+
+## Estructura
+
+- `/src`: Código principal del dispositivo
+- `/include`: Cabeceras del sistema
+- `/data`: Archivos web (HTML, CSS) para LittleFS
+- `/lib`: Librerías externas 
+
+## Tecnologías
+
+- Arduino IDE y PlatformIO + Arduino (RP2040)
+- LittleFS
+- WiFi y servidor HTTP embebido
+- HTML + CSS 
+
+## Autor
+
+Verónica Lechón Rodríguez

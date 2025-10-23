@@ -1,0 +1,4 @@
+<map id="GPS_buildBinaryPayload" name="GPS_buildBinaryPayload">
+<area shape="rect" id="node1" title="Construye payload binario de 13B (1B=fix, 4B=HHMMSS, 4B=lat*1e5, 4B=lon*1e5)." alt="" coords="104,5,284,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="5,5,56,32"/>
+</map>

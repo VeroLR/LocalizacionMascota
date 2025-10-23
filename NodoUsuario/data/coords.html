@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ubicación GPS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <div>
+    <a href="/" class="button-arrow">↩</a>
+  </div>
+</head>
+<body>
+  <div class="contenedor">
+    <h1>Ubicación de tu mascota</h1>
+    <div id="map"></div>
+    <div class="coords" id="coordText">Lat: 40.4168, Lon: -3.7038</div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+  // Inicial con Madrid
+  let lat = 40.4168, lon = -3.7038, zoom = 15;
+  const map = L.map('map').setView([lat, lon], zoom);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+  const marker = L.marker([lat, lon]).addTo(map).bindPopup('Mascota aquí 📍').openPopup();
+  const ct = document.getElementById('coordText');
+
+  async function refresh() {
+    try {
+      const res = await fetch('/coords.txt?ts=' + Date.now(), { cache: 'no-store' });
+      const txt = await res.text();       // Se lee el cuerpo como texto: "lat=41.662244&lon=-4.705920&z=18"
+      const p = new URLSearchParams(txt); // Parsea a querystring
+
+      // Convierte a números 
+      const nLat = parseFloat(p.get('lat'));
+      const nLon = parseFloat(p.get('lon'));
+      const z    = parseInt(p.get('z') ?? map.getZoom(), 10); // Se establece un zoom por defecto si no aparece en la query
+
+      // Sin números válidos no se hace nada
+      if (isNaN(nLat) || isNaN(nLon)) return;
+
+      // Actualiza la posición del marcador
+      marker.setLatLng([nLat, nLon]);
+      map.setView([nLat, nLon], z);
+
+      if (ct) ct.textContent = `Lat: ${nLat.toFixed(6)}, Lon: ${nLon.toFixed(6)}`;
+    } catch (_) {}
+  }
+  
+  refresh();
+  setInterval(refresh, 2000);
+</script>
+
+</body>
+</html>

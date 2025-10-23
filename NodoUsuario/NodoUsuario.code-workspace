@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NodoUsuario",
+			"path": "../NodoUsuario"
+		},
+		{
+			"name": "NodoUsuario",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

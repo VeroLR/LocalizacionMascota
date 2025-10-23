@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "NodoMascota",
+			"path": "../NodoMascota"
+		},
+		{
+			"name": "NodoMascota",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

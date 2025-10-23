@@ -1,8 +1,0 @@
-<map id="showLCDMessage" name="showLCDMessage">
-<area shape="rect" id="node1" title="Muestra un mensaje en la pantalla LCD (máx. 2 líneas)." alt="" coords="475,107,615,133"/>
-<area shape="rect" id="node2" href="$wifi__manager_8cpp.html#a7366b308d83e321ec68741802ec46934" title="POST /submit: guarda credenciales, redirige y programa reinicio." alt="" coords="112,5,257,32"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,56,64,83"/>
-<area shape="rect" id="node4" href="$wifi__manager_8cpp.html#a10827b8bfa7fec1b64a733df6e192f74" title="Conexión inicial: intenta STA; si falla, levanta AP y guía por LCD al usuario." alt="" coords="113,132,257,159"/>
-<area shape="rect" id="node5" href="$wifi__manager_8cpp.html#aa667b9ec9c4343dc605b8a5f92dbd794" title="Levanta AP con SSID/clave fijos (prototipo)." alt="" coords="317,157,415,184"/>
-<area shape="rect" id="node6" href="$wifi__manager_8cpp.html#ac7be2f0bbb099f8cdd59d03384a7445b" title="Intento de conexión STA con timeout." alt="" coords="305,208,427,235"/>
-</map>

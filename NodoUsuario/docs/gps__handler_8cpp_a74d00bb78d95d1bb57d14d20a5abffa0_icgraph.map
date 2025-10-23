@@ -1,5 +1,0 @@
-<map id="GPS_parsePayload" name="GPS_parsePayload">
-<area shape="rect" id="node1" title="Decodifica 13 B a GpsInfo; exige fix_flag==1." alt="" coords="256,5,399,32"/>
-<area shape="rect" id="node2" href="$lora__handler_8cpp.html#a29163574257f918a01cf1d82d384fde3" title="Debe llamarse con frecuencia desde loop() para procesar paquetes." alt="" coords="104,5,208,32"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#afe461d27b9c48d5921c00d521181f12f" title=" " alt="" coords="5,5,56,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="onPacketSentISR" name="onPacketSentISR">
-<area shape="rect" id="node1" title="Callback de RadioLib cuando termina la transmisión." alt="" coords="260,5,391,32"/>
-<area shape="rect" id="node2" href="$lora__handler_8cpp.html#a0269a771b42dac59079cf8c7a605e5e2" title="Inicializa bus SPI0, pines de la radio y configuración LoRa." alt="" coords="112,5,212,32"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,5,64,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="LORA_rxTick" name="LORA_rxTick">
-<area shape="rect" id="node1" title="Debe llamarse con frecuencia desde loop() para procesar paquetes." alt="" coords="5,5,109,32"/>
-<area shape="rect" id="node2" href="$gps__handler_8cpp.html#a74d00bb78d95d1bb57d14d20a5abffa0" title="Decodifica 13 B a GpsInfo; exige fix_flag==1." alt="" coords="157,5,300,32"/>
-</map>

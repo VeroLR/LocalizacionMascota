@@ -1,6 +1,0 @@
-<map id="include/lcd_utils.h" name="include/lcd_utils.h">
-<area shape="rect" id="node1" title="Declaraciones del módulo de control de pantalla LCD (HD44780 I²C)." alt="" coords="139,5,278,32"/>
-<area shape="rect" id="node2" href="$lcd__utils_8cpp.html" title="Implementación de las funciones de control de la pantalla LCD (HD44780 vía I²C)." alt="" coords="5,80,132,107"/>
-<area shape="rect" id="node3" href="$main_8cpp.html" title=" " alt="" coords="156,80,261,107"/>
-<area shape="rect" id="node4" href="$wifi__manager_8cpp.html" title="Implementación de la gestión de conexión WiFi y configuración de red." alt="" coords="285,80,444,107"/>
-</map>

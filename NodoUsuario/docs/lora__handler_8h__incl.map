@@ -1,7 +1,0 @@
-<map id="include/lora_handler.h" name="include/lora_handler.h">
-<area shape="rect" id="node1" title="Definición de las funciones SX1262 (RadioLib) para recepción de payload GNSS por LoRa." alt="" coords="51,5,216,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,96,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="91,155,175,181"/>
-<area shape="rect" id="node4" href="$gps__handler_8h.html" title="Declaraciones del módulo GPS (TinyGPS++) para lectura y codificación de coordenadas." alt="" coords="171,80,283,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="200,155,315,181"/>
-</map>

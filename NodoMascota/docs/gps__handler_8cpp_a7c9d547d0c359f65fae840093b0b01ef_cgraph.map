@@ -1,4 +1,0 @@
-<map id="GPS_update" name="GPS_update">
-<area shape="rect" id="node1" title="Lee los mensajes recibidos y los pasa al parser NMEA." alt="" coords="5,5,105,32"/>
-<area shape="rect" id="node2" href="$gps__handler_8cpp.html#ad0b9cfa4d46dc061703aa2a40d4ef921" title=" " alt="" coords="153,5,236,32"/>
-</map>

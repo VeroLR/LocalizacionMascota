@@ -1,9 +1,0 @@
-<map id="src/gps_handler.cpp" name="src/gps_handler.cpp">
-<area shape="rect" id="node1" title="Implementación de las funciones de lectura y empaquetado de datos GNSS." alt="" coords="239,5,389,32"/>
-<area shape="rect" id="node2" href="$gps__handler_8h.html" title="Declaraciones del módulo GNSS (estructura GpsInfo y funciones públicas)." alt="" coords="53,80,165,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="189,80,317,107"/>
-<area shape="rect" id="node6" title=" " alt="" coords="341,80,409,107"/>
-<area shape="rect" id="node7" title=" " alt="" coords="433,80,504,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,155,89,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="114,155,229,181"/>
-</map>

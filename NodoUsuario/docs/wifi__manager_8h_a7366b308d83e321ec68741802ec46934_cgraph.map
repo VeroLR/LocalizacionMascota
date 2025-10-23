@@ -1,5 +1,0 @@
-<map id="handleFormSubmit" name="handleFormSubmit">
-<area shape="rect" id="node1" title="Manejador del POST de formulario (/submit): guarda y redirige." alt="" coords="5,31,151,57"/>
-<area shape="rect" id="node2" href="$wifi__manager_8cpp.html#a09c0390501244c73dac7006a4a254d47" title="Guarda SSID y password (dos líneas) en CONFIG_FILE." alt="" coords="213,5,324,32"/>
-<area shape="rect" id="node3" href="$lcd__utils_8cpp.html#a28d0b9d595f60ae4ca04a6a9d7e11ef5" title="Muestra un mensaje en la pantalla LCD (máx. 2 líneas)." alt="" coords="199,56,339,83"/>
-</map>

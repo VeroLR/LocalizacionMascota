@@ -1,8 +1,0 @@
-<map id="src/main.cpp" name="src/main.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="134,5,239,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="145,155,229,181"/>
-<area shape="rect" id="node3" href="$gps__handler_8h.html" title="Declaraciones del módulo GNSS (estructura GpsInfo y funciones públicas)." alt="" coords="37,80,149,107"/>
-<area shape="rect" id="node5" href="$lora__handler_8h.html" title="Definición de las funciones de transmisión LoRa (SX1262/RadioLib) para el nodo de la mascota." alt="" coords="224,80,339,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,155,120,181"/>
-<area shape="rect" id="node6" title=" " alt="" coords="253,155,344,181"/>
-</map>

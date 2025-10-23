@@ -1,6 +1,0 @@
-<map id="include/html_pages.h" name="include/html_pages.h">
-<area shape="rect" id="node1" title="Declaraciones del módulo de generación de páginas HTML para el portal web." alt="" coords="149,5,311,32"/>
-<area shape="rect" id="node2" href="$html__pages_8cpp.html" title="Implementación de la generación de páginas HTML dinámicas del portal web." alt="" coords="5,80,153,107"/>
-<area shape="rect" id="node3" href="$main_8cpp.html" title=" " alt="" coords="177,80,283,107"/>
-<area shape="rect" id="node4" href="$wifi__manager_8cpp.html" title="Implementación de la gestión de conexión WiFi y configuración de red." alt="" coords="307,80,465,107"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="loop" name="loop">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,56,83"/>
-<area shape="rect" id="node2" href="$lora__handler_8cpp.html#ade173c01345065d987f924f17ec37ae3" title="Devuelve la última estampa GNSS válida y métricas RF asociadas." alt="" coords="104,5,251,32"/>
-<area shape="rect" id="node3" href="$lora__handler_8cpp.html#a29163574257f918a01cf1d82d384fde3" title="Debe llamarse con frecuencia desde loop() para procesar paquetes." alt="" coords="125,56,229,83"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a48f3f185be3ea2d153c347a157b38d42" title=" " alt="" coords="146,107,209,133"/>
-<area shape="rect" id="node4" href="$gps__handler_8cpp.html#a74d00bb78d95d1bb57d14d20a5abffa0" title="Decodifica 13 B a GpsInfo; exige fix_flag==1." alt="" coords="299,56,441,83"/>
-</map>

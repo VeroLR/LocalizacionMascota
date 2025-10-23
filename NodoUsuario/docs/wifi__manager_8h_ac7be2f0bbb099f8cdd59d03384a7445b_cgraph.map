@@ -1,4 +1,0 @@
-<map id="tryConnectWiFi" name="tryConnectWiFi">
-<area shape="rect" id="node1" title="Intenta conectar al AP indicado en modo estación (bloqueo con timeout)." alt="" coords="5,5,127,32"/>
-<area shape="rect" id="node2" href="$lcd__utils_8cpp.html#a28d0b9d595f60ae4ca04a6a9d7e11ef5" title="Muestra un mensaje en la pantalla LCD (máx. 2 líneas)." alt="" coords="175,5,315,32"/>
-</map>

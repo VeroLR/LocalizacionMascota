@@ -1,5 +1,0 @@
-<map id="include/gps_handler.h" name="include/gps_handler.h">
-<area shape="rect" id="node1" title="Declaraciones del módulo GNSS (estructura GpsInfo y funciones públicas)." alt="" coords="75,5,238,32"/>
-<area shape="rect" id="node2" href="$gps__handler_8cpp.html" title="Implementación de las funciones de lectura y empaquetado de datos GNSS." alt="" coords="5,80,156,107"/>
-<area shape="rect" id="node3" href="$main_8cpp.html" title=" " alt="" coords="180,80,285,107"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="tryConnectWiFi" name="tryConnectWiFi">
-<area shape="rect" id="node1" title="Intenta conectar al AP indicado en modo estación (bloqueo con timeout)." alt="" coords="304,5,425,32"/>
-<area shape="rect" id="node2" href="$wifi__manager_8cpp.html#a10827b8bfa7fec1b64a733df6e192f74" title="Conexión inicial: intenta STA; si falla, levanta AP y guía por LCD al usuario." alt="" coords="112,5,256,32"/>
-<area shape="rect" id="node3" href="$main_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d" title=" " alt="" coords="5,5,64,32"/>
-</map>

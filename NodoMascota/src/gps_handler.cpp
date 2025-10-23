@@ -89,7 +89,7 @@ size_t GPS_buildBinaryPayload(const GpsInfo& info, uint8_t* out, size_t outSize)
  */
 bool GPS_parsePayload(const uint8_t* in, size_t len, GpsInfo& out) {
   if (!in || len != 13) return false;
-  if (in[0] != 1) return false;  // si quieres aceptar “no fix”, elimina esta línea
+  if (in[0] != 1) return false; 
 
   uint32_t hhmmss = 0;
   int32_t latFixed = 0, lonFixed = 0;

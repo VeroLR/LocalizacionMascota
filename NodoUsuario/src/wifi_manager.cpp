@@ -33,7 +33,7 @@
 
 /**
  * @brief Guarda SSID y password (dos líneas) en CONFIG_FILE.
- * @warning Texto plano: válido para prototipo (documentar limitación en TFG).
+ * @warning Texto plano: válido para prototipo.
  */
 bool saveWiFiConf(const String &ssid, const String &pwd) {
   File file = LittleFS.open(CONFIG_FILE, "w");
@@ -172,7 +172,7 @@ void handleFormSubmit() {
       server.sendHeader("Location", "/savedcredentials");
       server.send(303, "text/plain", "Redirigiendo...");
 
-      // Feedback en LCD y reinicio diferido (gestiona el .ino)
+      // Feedback en LCD y reinicio diferido
       showLCDMessage("Credenciales OK. Reiniciando...");
       pendingReset = true;
       pendingResetTime = millis();

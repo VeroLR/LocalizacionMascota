@@ -45,7 +45,7 @@ void setup() {
   if (!LORA_begin(868.0)) {
     Serial.print("[LoRa] INIT FAIL, code ");
     Serial.println(LORA_lastState());
-    // En prototipo seguimos ejecutando para poder ver logs de GPS
+    // En el prototipo seguimos ejecutando para poder ver los logs de GPS
   } else {
     Serial.println("[LoRa] INIT OK");
   }
@@ -67,7 +67,7 @@ void loop() {
     txInProgress = false;
   }
 
-  // 3) Si hay fix válido (pos + hora)
+  // 3) Si hay fix válido (posición + hora)
   if (GPS_hasFix()) {
     GpsInfo info = GPS_getInfo();
 

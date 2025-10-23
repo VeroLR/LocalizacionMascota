@@ -42,7 +42,7 @@ String generateScanNetworksHTML() {
     }
   }
 
-  html.replace("%%OPTIONS%%", options); // Para servirlo adecuadamente en un HTML dinámico
+  html.replace("%%OPTIONS%%", options); // Para servirlo en un HTML dinámico
   return html;
 }
 

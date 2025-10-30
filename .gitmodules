@@ -2,6 +2,10 @@
 	path = Software/NodoUsuario/lib/TinyGPSPlus
 	url = https://github.com/mikalhart/TinyGPSPlus.git
 	branch = master
+[submodule "Software/NodoUsuario/lib/TinyGPS"]
+	path = Software/NodoUsuario/lib/TinyGPS
+	url = https://github.com/mikalhart/TinyGPS.git
+	branch = master	
 [submodule "Software/NodoUsuario/lib/RadioLib"]
 	path = Software/NodoUsuario/lib/RadioLib
 	url = https:/github.com/jgromes/RadioLib.git

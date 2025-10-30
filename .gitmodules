@@ -14,3 +14,19 @@
 	path = Software/NodoUsuario/lib/hd44780
 	url = https://github.com/duinoWitchery/hd44780/
 	branch = master
+[submodule "Software/NodoMascota/RadioLib"]
+	path = Software/NodoMascota/RadioLib
+	url = https://github.com/jgromes/RadioLib.git
+	branch = master
+[submodule "Software/NodoMascota/TinyGPSPlus"]
+	path = Software/NodoMascota/TinyGPSPlus
+	url = https://github.com/mikalhart/TinyGPSPlus.git
+	branch = master
+[submodule "Software/NodoMascota/TinyGPS"]
+	path = Software/NodoMascota/TinyGPS
+	url = https://github.com/mikalhart/TinyGPS.git
+	branch = master
+[submodule "Software/NodoMascota/lib/TinyGPSPlus"]
+	path = Software/NodoMascota/lib/TinyGPSPlus
+	url = https://github.com/mikalhart/TinyGPSPlus.git
+	branch = master

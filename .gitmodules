@@ -1,0 +1,8 @@
+[submodule "Software/NodoUsuario/lib/TinyGPSPlus"]
+	path = Software/NodoUsuario/lib/TinyGPSPlus
+	url = https://github.com/mikalhart/TinyGPSPlus.git
+	branch = master
+[submodule "Software/NodoUsuario/lib/RadioLib"]
+	path = Software/NodoUsuario/lib/RadioLib
+	url = https:/github.com/jgromes/RadioLib.git
+	branch = master

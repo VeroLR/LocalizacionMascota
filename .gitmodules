@@ -6,3 +6,7 @@
 	path = Software/NodoUsuario/lib/RadioLib
 	url = https:/github.com/jgromes/RadioLib.git
 	branch = master
+[submodule "Software/NodoUsuario/lib/hd44780"]
+	path = Software/NodoUsuario/lib/hd44780
+	url = https://github.com/duinoWitchery/hd44780/
+	branch = master
